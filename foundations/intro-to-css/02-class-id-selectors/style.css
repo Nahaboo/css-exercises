@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.classA{
+    background-color: rgb(243, 163, 163);
+}
+
+.classB {
+    font-size: 24px;
+}
+
+#A {
+    color: rgb(0, 0,255);
+    font-size: 36px;
+}
+#B {
+    color: rgb(0,0,0);
+    background-color: rgb(183, 248, 183);
+    font-size: 24px;
+    font-weight: bold;
+}
+
